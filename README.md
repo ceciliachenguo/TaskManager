@@ -1,7 +1,8 @@
 
 # TaskManager
 
-This is a SwiftUI-based Task Management iOS Project that demonstrate the UI part. Check out this Task Management Project integrated with Core Data CRUD operation in this [Task Manager With Core Data Project](https://github.com/ceciliachenguo/TaskManagerCoreData).
+This project is a SwiftUI-based Task Management iOS application, focusing primarily on demonstrating the UI aspect.<br>
+For a more in-depth look at the integration of Core Data for CRUD operations, please refer to the [Task Manager With Core Data Project](https://github.com/ceciliachenguo/TaskManagerCoreData).
 
 ## Video Demo:
 
